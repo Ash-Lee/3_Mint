@@ -8,7 +8,7 @@ Rebuild the form used by [Mint.com](https://wwws.mint.com/login.event?task=S) fo
 	<li>Create an HTML form.</li>
     <li>Experiment with form layout and positioning.</li>
 	<li>More exposure to the practical application of HTML and CSS.</li>
-	<li>Design appreciation and attention to detail - attempt to create a pixel perfect design replica.</li>
+	<li>Design appreciation and attention to detail - Attempt to create a pixel perfect design replica.</li>
 </ul>
 
 ##### Live Preview
